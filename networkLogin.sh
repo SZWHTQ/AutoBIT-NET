@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 
 connectToNetwork(){
     echo "Connecting to network"
