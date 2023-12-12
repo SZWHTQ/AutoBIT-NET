@@ -1,4 +1,4 @@
-# AutoBIT-NET
+# AutoBITnet
 
 Automatically log into BIT’s network
 
